@@ -1,0 +1,12 @@
+import java.util.*;
+class convert{
+public static void main(string args[]){
+Scanner in=new Scanner(System.in);
+int start=in.nextInt();
+int end=in.nextInt();
+for(int i=start;i<=end;i++){
+char ch=(char)I;
+system.out.print(i+":"+ch+" ");
+}
+}
+}
